@@ -1,1 +1,2 @@
 Testing
+Use the "git pull upstream main" is the command to pull from the main branch  
